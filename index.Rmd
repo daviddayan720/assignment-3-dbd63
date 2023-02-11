@@ -1,0 +1,14 @@
+---
+title: "NTRES 6100 Assignment 3 Home Page"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Collaborators
+* David Dayan: (https://github.com/daviddayan720)
+* Sydney Jewell: (https://github.com/sejewell)
+
+![This is a sheep with its tongue out! Sydney and I met when she was a graduate TA for a dairy sheep class I took in Fall 2022!](http://t0.gstatic.com/licensed-image?q=tbn:ANd9GcTGtk8KBJF3s8ZVj5Awk2ddqQnydXY_gP_2wOBIIZjI9pBp0bRkhEq53o755RI4xbHDj90f32y42czWCfw)
