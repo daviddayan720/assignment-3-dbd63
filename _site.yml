@@ -1,0 +1,20 @@
+name: "our-website"
+navbar:
+  title: "David & Sydney's Assignment 3"
+  left:
+    - text: "Home"
+      href: index.html
+      icon: fa-home
+    - text: "About David Dayan"
+      href: david.html
+      icon: fa-info
+    - text: "About Sydney Jewell"
+      href: sydney.html
+      icon: fa-info
+output_dir: "."
+output:
+  html_document:
+    theme: flatly
+    highlight: textmate
+    toc: true 
+    toc_float: true
